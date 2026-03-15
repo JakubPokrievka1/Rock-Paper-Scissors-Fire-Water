@@ -5,6 +5,7 @@ Make sure to use "chmod +x rock-paper-scissors-fire-water.py" before running the
 On Windows/MacOS, the script is the easiest to be run via a IDE. 
 
 This game is meant to serve for me as a introduction and a starting point for me to GUI programming. 
+
     Copyright (C) 2026  Jakub Pokrievka
 
     This program is free software: you can redistribute it and/or modify
